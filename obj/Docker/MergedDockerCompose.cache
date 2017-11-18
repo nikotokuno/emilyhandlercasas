@@ -1,0 +1,11 @@
+services:
+  emilyhandler:
+    build:
+      context: C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: emilyhandler
+    ports:
+    - 80/tcp
+version: '3.0'

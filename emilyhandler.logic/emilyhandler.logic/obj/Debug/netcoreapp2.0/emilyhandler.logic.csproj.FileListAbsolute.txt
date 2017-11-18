@@ -1,0 +1,13 @@
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.logic.deps.json
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.logic.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.logic.pdb
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.domain.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.domain.pdb
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\obj\Debug\netcoreapp2.0\emilyhandler.logic.csprojResolveAssemblyReference.cache
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\obj\Debug\netcoreapp2.0\emilyhandler.logic.csproj.CoreCompileInputs.cache
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\obj\Debug\netcoreapp2.0\emilyhandler.logic.AssemblyInfoInputs.cache
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\obj\Debug\netcoreapp2.0\emilyhandler.logic.AssemblyInfo.cs
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\obj\Debug\netcoreapp2.0\emilyhandler.logic.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\obj\Debug\netcoreapp2.0\emilyhandler.logic.pdb
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.persistance.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.logic\emilyhandler.logic\bin\Debug\netcoreapp2.0\emilyhandler.persistance.pdb

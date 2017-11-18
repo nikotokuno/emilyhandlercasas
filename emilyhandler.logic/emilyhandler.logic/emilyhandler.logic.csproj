@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="InfluxDB.Net-Main" Version="1.0.46" />
+    <PackageReference Include="Vibrant.InfluxDB.Client" Version="3.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\emilyhandler.domain\emilyhandler.domain\emilyhandler.domain.csproj" />
+    <ProjectReference Include="..\..\emilyhandler.persistance\emilyhandler.persistance\emilyhandler.persistance.csproj" />
+  </ItemGroup>
+
+</Project>

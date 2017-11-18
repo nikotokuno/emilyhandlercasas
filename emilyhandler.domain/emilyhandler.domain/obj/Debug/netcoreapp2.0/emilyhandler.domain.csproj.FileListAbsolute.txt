@@ -1,0 +1,9 @@
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\bin\Debug\netcoreapp2.0\emilyhandler.domain.deps.json
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\bin\Debug\netcoreapp2.0\emilyhandler.domain.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\bin\Debug\netcoreapp2.0\emilyhandler.domain.pdb
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\obj\Debug\netcoreapp2.0\emilyhandler.domain.csprojResolveAssemblyReference.cache
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\obj\Debug\netcoreapp2.0\emilyhandler.domain.csproj.CoreCompileInputs.cache
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\obj\Debug\netcoreapp2.0\emilyhandler.domain.AssemblyInfoInputs.cache
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\obj\Debug\netcoreapp2.0\emilyhandler.domain.AssemblyInfo.cs
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\obj\Debug\netcoreapp2.0\emilyhandler.domain.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.domain\emilyhandler.domain\obj\Debug\netcoreapp2.0\emilyhandler.domain.pdb

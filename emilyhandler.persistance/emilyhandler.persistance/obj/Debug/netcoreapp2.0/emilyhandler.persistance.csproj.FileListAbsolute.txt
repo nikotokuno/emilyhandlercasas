@@ -1,0 +1,9 @@
+C:\Users\nikot\Documents\Visual Studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\bin\Debug\netcoreapp2.0\emilyhandler.persistance.deps.json
+C:\Users\nikot\Documents\Visual Studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\bin\Debug\netcoreapp2.0\emilyhandler.persistance.dll
+C:\Users\nikot\Documents\Visual Studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\obj\Debug\netcoreapp2.0\emilyhandler.persistance.csprojResolveAssemblyReference.cache
+C:\Users\nikot\Documents\Visual Studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\obj\Debug\netcoreapp2.0\emilyhandler.persistance.csproj.CoreCompileInputs.cache
+C:\Users\nikot\Documents\Visual Studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\obj\Debug\netcoreapp2.0\emilyhandler.persistance.AssemblyInfoInputs.cache
+C:\Users\nikot\Documents\Visual Studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\obj\Debug\netcoreapp2.0\emilyhandler.persistance.AssemblyInfo.cs
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\bin\Debug\netcoreapp2.0\emilyhandler.persistance.pdb
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\obj\Debug\netcoreapp2.0\emilyhandler.persistance.dll
+C:\Users\nikot\documents\visual studio 2017\Projects\emilyhandler\emilyhandler.persistance\emilyhandler.persistance\obj\Debug\netcoreapp2.0\emilyhandler.persistance.pdb
